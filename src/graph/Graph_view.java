@@ -70,7 +70,7 @@ public class Graph_view extends Frame implements ActionListener,WindowListener{
 			     ChartPanel cpanel = new ChartPanel(chart);
 			     add(cpanel, BorderLayout.CENTER);
 			}	
-			
+			setVisible(true);
 	    }
 	
 	
